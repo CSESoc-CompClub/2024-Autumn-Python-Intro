@@ -57,6 +57,7 @@ def ground_covered(distances):
     """
     # TODO: add your code here
     return 0
+####################
 
 def test(expected, actual):
     """
