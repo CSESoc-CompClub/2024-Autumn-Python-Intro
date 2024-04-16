@@ -13,16 +13,10 @@ def main():
         if (isVowel(letter)):
             print(letter)
 
-
+# Determine whether or not the input 'letter' is a vowel. Return 1 if it is, and 0 if it is not.
 def isVowel(letter):
-    return letter == 'a' or letter == 'i' or letter == 'u' or letter == 'e' or letter == 'o'
-
-
-
-
-
-
-
+    #<--Your code here-->#
+    return 1
 
 
 #################################################
