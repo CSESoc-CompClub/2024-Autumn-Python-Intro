@@ -21,13 +21,13 @@ def main():
     # The length of your name
     print("How many letters are there in your name?")
     length = name_length(name)
-    print(f"{length}'s name has {length} letters\n")
+    print(f"{name}'s name has {length} letters\n")
 
     # Catbus Capacity
     print("Mei is lost! How much ground have we covered?")
     test(10, ground_covered([5, 2, 3]))
 
-    ## TODO: add your exersise functions below, be as silly and creative as you want :) ##
+    ## TODO: add your exercise functions below, be as silly and creative as you want :) ##
 
 def example_func():
     """prints your name and returns your name
