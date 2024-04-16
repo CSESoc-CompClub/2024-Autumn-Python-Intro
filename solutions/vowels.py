@@ -15,7 +15,7 @@ def main():
 
 
 def isVowel(letter):
-    return letter == 'a' or letter == 'i' or letter == 'u' or letter == 'e' or letter == 'o'
+#    return letter == 'a' or letter == 'i' or letter == 'u' or letter == 'e' or letter == 'o'
 
 
 

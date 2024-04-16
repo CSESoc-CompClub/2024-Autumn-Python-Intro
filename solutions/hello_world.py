@@ -40,7 +40,8 @@ def print_hello_world():
 #   c) Subtract 2165625 from 4375000
 #   d) Multiply 42537 by 29530
 #   e) Divide 52305765 by 4237
-#   *f) EXTRA: There is another maths operator '%', see if you can figure
+#   f) Integer part of 520537 divided by 500
+#   g) EXTRA: There is another maths operator '%', see if you can figure
 #       out what it does!
 #       HINT: try print(x % 4), for x = 0, 1, ..., 10.
 
@@ -50,7 +51,8 @@ def print_maths():
     print("c)", 4375000 - 2165625)
     print("d)", 42537 * 29530)
     print("e)", 52305765 / 4237)
-    print("f)", "It's the modulo operator!")
+    print("f)", 520537 // 500)
+    print("g)", "It's the modulo operator!")
 
 # Printing 3:
 #

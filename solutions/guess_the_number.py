@@ -12,13 +12,14 @@ def main():
 
 def guess_the_number(number):
     n = int(input("Your guess: "))
-    if (number == n): 
-        return 0
-    if (number < n):
-        print("Too high!")
-        return 1
-    print("Too low!")
-    return 1
+    
+#    if (number == n): 
+#        return 0
+#    if (number < n):
+#        print("Too high!")
+#        return 1
+#    print("Too low!")
+#    return 1
 
 
 
