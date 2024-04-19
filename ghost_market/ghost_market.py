@@ -5,10 +5,18 @@
 # from working on this project.
 # 	The CompClub Team
 
+from constants import CATALOGUE
 
-from checkout import checkout
-from shop import add_to_cart, remove_from_cart, show_items
-from welcome import display_catalogue, get_next_customer, welcome
+# Import the code written by the students. They might delete the
+# function definition entirely, or do something else crazy, so
+# we should try to be helpful if that happens.
+try:
+    from welcome import welcome, get_next_customer, display_catalogue
+    from shop import add_to_cart, remove_from_cart, show_items
+    from checkout import checkout
+except ImportError:
+    # TODO: Print a helpful error message.
+    pass
 
 
 def main():
