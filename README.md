@@ -14,6 +14,7 @@
 3. [Input](./spec/3-input.md)
 4. [If-Else](./spec/4-ifelse.md)
 5. [Loops](./spec/5-loops.md)
+6. [Ghost Market](./spec/ghost_market.md)
 
 ## Setting up
 Before we start working, we first need to set up the Python extension on VSCode, so that we can make life easier :)
