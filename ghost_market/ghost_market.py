@@ -5,8 +5,6 @@
 # from working on this project.
 # 	The CompClub Team
 
-from constants import CATALOGUE
-
 # Import the code written by the students. They might delete the
 # function definition entirely, or do something else crazy, so
 # we should try to be helpful if that happens.
