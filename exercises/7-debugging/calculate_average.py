@@ -6,6 +6,10 @@ def calculate_average(numbers):
     average = total / len(numbers)
     return average
 
+# THE ERROR IS BEFORE THIS POINT
+# =====================================================
+# IGNORE THE CODE BEYOND THIS POINT
+
 # Main function
 def main():
     numbers = [5, 10, 15, 20, 25]  
