@@ -5,7 +5,8 @@ and get your customer's name!
 This is your first task of the project.
 """
 
-from ghost_market.constants import CATALOGUE, get_price
+
+from constants import CATALOGUE, get_price
 
 
 def welcome():
@@ -34,5 +35,5 @@ def display_catalogue():
     """
     print("PRICE\tNAME")
     for category in CATALOGUE:
-        for item in category:
+        for item in CATALOGUE[category]:
             print(f"{get_price(item)}\t{item}")
