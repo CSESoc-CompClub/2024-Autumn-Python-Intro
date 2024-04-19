@@ -1,8 +1,7 @@
 # 👻 Ghost market shopping spree!!🛍️
 
 ## Getting Started
-- All the ghost market files are in the `ghost_market/` folder
-- To run ghost market, use `python ghost_market/ghost_market.py`
+All the files you need to edit are in the `ghost_market` directory.
 
 ## Task 1: Come one, come all!
 ### 1.1 welcome()
@@ -18,17 +17,6 @@ Lets ask the name of our customer!
 > HINT
 > -
 > - Use the `input` function
-
-### 1.3 display_catalogue()
-Lets show the customer what we have on sale. Display our catalogue to our customer however you'd like! Make it pretty!
-
-**fill the `display_catalogue` function in `welcome.py`**
-
-> HINT
-> -
-> - use the `CATALOGUE` dictionary from `constants.py`
-> - use a `for in` loop (e.g. `for category in CATALOGUE`)
-> - for some nice printing, use tabs in your print statements (e.g. `print("\t" + ...)`)
 
 ## Task 2: I have great self control (and other lies I tell myself)
 ### 2.1 add_to_cart()
@@ -58,7 +46,7 @@ Prompt the customer for an item to remove:
 > - You can use the Dictionaries `.pop()` method to remove an item from the cart
 
 ### 2.3 Challenge: show_items()
-We need to see what our cart looks like!
+We need to see what our card looks like!
 
 Display the names and quantities of items that the customer
 has added to their cart. Also sum up the current total and print it.
