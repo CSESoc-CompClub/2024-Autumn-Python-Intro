@@ -4,8 +4,6 @@
 #    Topic: Variables!               #
 #************************************#
 
-PI = 3.14159265359
-
 # Write a program that determines how many bowls of ramen 
 # a restaurant can make from the given sheets of seaweed. 
 # A bowl of ramen must have 3 sheets of seaweed, no more, no less!
