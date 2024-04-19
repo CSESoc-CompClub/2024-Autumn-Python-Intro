@@ -21,14 +21,17 @@ def main():
 
     # Print the list of movies after removing
     print("List of movies after removing: ", ghibli_movies)
-    
-# TO IMPLEMENT
+
+# ===================================================
+# IGNORE THE CODE ABOVE HERE
+# IMPLEMENT THE FUNCTIONS BELOW BELOW
+
 def add_movie(movie_title):
-    # IMPLEMENT
+    # ADD CODE HERE SUCH THAT IT WILL ADD A MOVIE TO THE MOVIE LIST
     pass
 
 def remove_movie(movie_title):
-    # IMPLEMENT
+    # ADD CODE HERE SUCH THAT IT WILL REMOVE A MOVIE FROM THE MOVIE LIST
     pass
 
 main()
