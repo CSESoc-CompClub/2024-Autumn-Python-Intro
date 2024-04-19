@@ -18,7 +18,7 @@ def main():
     print_multiple()
 
 
-# Printing 1:
+# [Printing 1] ################################################################
 #
 # Welcome to the COMP CLUB Autumn workshop! As is tradition, let us say hello to the world!
 #
@@ -27,13 +27,15 @@ def main():
 #
 
 def print_hello_world():
+    # <Solution>
     print("Hello world!")
+    # </Solution>
 
-# Printing 2:
+# [Printing 2] ################################################################
 #
 # To prepare us for the future, let's do some basic maths.
 # We can use python as a calculator!
-#
+
 # Task: Print out the value of the following:
 #   a) Add the numbers 123 and 456 (Done for you!)
 #   b) Add the numbers 4373000 and 9221250
@@ -46,6 +48,7 @@ def print_hello_world():
 #       HINT: try print(x % 4), for x = 0, 1, ..., 10.
 
 def print_maths():
+    # <Solution>
     print("a)", 123 + 456)
     print("b)", 4373000 + 9221250)
     print("c)", 4375000 - 2165625)
@@ -53,30 +56,34 @@ def print_maths():
     print("e)", 52305765 / 4237)
     print("f)", 520537 // 500)
     print("g)", "It's the modulo operator!")
+    # </Solution>
 
-# Printing 3:
+# [Printing 3] ################################################################
 #
 # One cool thing we can do is print the value of a variable.
 # Set values of the variables, and the print function will 
 # fill out the information for you!
 def print_facts():
+    # <Solution>
     my_name = "Totoro."
     my_school = "Satsuki's School House."
     my_age = 3
     my_hobby = "interacting with humans."
     print("Hi! My name is", my_name, "I am", my_age, "years old, and I go to school at", my_school,"I often enjoy", my_hobby)
+    # </Solution>
 
-# Now, try to write one of these print statements yourself!
-# Fill in the spaces in the print statement to make the equation true.
-#
-x = 2
-y = 6
-z = 12
+    # Now, try to write one of these print statements yourself!
+    # Fill in the spaces in the print statement to make the equation true.
+    #
+    x = 2
+    y = 6
+    z = 12
 
-# print(___, "times", ___, "equals", ___)
-    
+    # <Solution>
+    print(x, "times", y, "equals", z)  
+    # </ Solution>
 
-# Printing 4:
+# [Printing 4] ################################################################
 #
 # One more thing. Sometimes, we need to print a lot of things over many lines.
 # One example is ascii art!

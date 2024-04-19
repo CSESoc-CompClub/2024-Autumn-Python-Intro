@@ -1,5 +1,5 @@
-# 2024-Autumn-Python-Intro
-2024 (Autumn) Introduction to Python
+# Introduction to Python!
+Hihi!! Welcome to CompClub's Introuction to Python Workshop!
 
 ## Setup
 Install `python3` with the installer or package manager of your choice.
@@ -16,8 +16,3 @@ You can either click the `Run` button on vscode, or
 $ cd directory-name
 $ python ./file_name.py
 ```
-
-## What goes where
-- `solutions/` - Where you will be adding code for now, full working code for exercise
-- `exercises/` - Where student 'blank' files will go
-- `spec/` - Markdown files detailing tasks for students

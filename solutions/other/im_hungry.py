@@ -19,6 +19,8 @@ def ice_cream_volume():
 def ice_cream_volume():
     radius = float(input("Radius of the cone = "))
     height = float(input("Height of the cone = "))
+    # print(PI * (radius ** 2) * height / 3)
+    return PI * (radius ** 2) * height / 3
 
 #################################################
 main()
