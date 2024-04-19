@@ -18,10 +18,5 @@ def main():
     print("MEDIAN:")
     print(my_list[len(my_list)//2])
 
-
-
-
-
-
 ###################
 main()
