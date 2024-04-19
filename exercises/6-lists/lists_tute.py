@@ -1,4 +1,3 @@
-
 # List of Ghibli movies
 ghibli_movies = ["Spirited Away", "My Neighbor Totoro", "Princess Mononoke"]
 
