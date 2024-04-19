@@ -4,6 +4,7 @@
 #    Topic: Printing!                #
 #************************************#
 
+# DO NOT TOUCH
 def main():
     print("-==Printing 1==-")
     print_hello_world()
@@ -18,7 +19,7 @@ def main():
     print_multiple()
 
 
-# Printing 1:
+# [Printing 1] ################################################################
 #
 # Welcome to the COMP CLUB Autumn workshop! As is tradition, let us say hello to the world!
 #
@@ -30,7 +31,7 @@ def print_hello_world():
     print("To do!")
     #<--Your code here-->#
 
-# Printing 2:
+# [Printing 2] ################################################################
 #
 # To prepare us for the future, let's do some basic maths.
 # We can use python as a calculator!
@@ -50,7 +51,7 @@ def print_maths():
     print("TODO")
     #<--Your code here-->#
 
-# Printing 3:
+# [Printing 3] ################################################################
 #
 # One cool thing we can do is print the value of a variable.
 # Set values of the variables, and the print function will 
@@ -63,21 +64,21 @@ def print_facts():
     my_hobby = "your_hobby_Here"
     print("Hi! My name is", my_name, "I am", my_age, "years old, and I go to school at", my_school,"I often enjoy", my_hobby)
 
-# Now, try to write one of these print statements yourself!
-# Fill in the spaces in the print statement to make the equation true.
-#
-x = 2
-y = 6
-z = 12
+    # Now, try to write one of these print statements yourself!
+    # Fill in the spaces in the print statement to make the equation true.
+    #
+    x = 2
+    y = 6
+    z = 12
 
-# print(___, "times", ___, "equals", ___)
+    # print(___, "times", ___, "equals", ___)
     
 
-# Printing 4:
+# [Printing 4] ################################################################
 #
 # One more thing. Sometimes, we need to print a lot of things over many lines.
 # One example is ascii art!
-#
+
 # We can do this by using three quotation marks at the beginning and 
 # end of what we want to print
 #
