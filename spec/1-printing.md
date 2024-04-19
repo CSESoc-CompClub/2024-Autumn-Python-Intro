@@ -1,10 +1,10 @@
-# Printing
+# 🖨 Printing 👋
 The code for this exercise can be found in `exercises/exercises.py`.
 
 You can manually run your code by clicking the play button, or:
 ```
 $ cd ~/Desktop/2024-autumn-python-intro/exercises/1-printing
-$ python3 ./hello_world.py
+$ python3 hello_world.py
 ```
 
 ## Task 1.1: Hello world!
@@ -66,7 +66,7 @@ Head on over to https://www.asciiart.eu/ and try this for yourself in `print_mul
 You can manually run your code by clicking the play button, or:
 ```
 $ cd ~/Desktop/2024-autumn-python-intro/exercises/1-printing
-$ python3 ./exercises.py
+$ python3 exercises.py
 ```
 Your output should look like this:
 ```

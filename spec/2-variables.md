@@ -4,7 +4,7 @@ The code for this exercise can be found in `exercises/2-variables/`.
 You can manually run your code by clicking the play button, or:
 ```
 $ cd ~/Desktop/2024-autumn-python-intro/exercises/2-variables
-$ python3 ./{FILE_NAME}.py
+$ python3 {FILE_NAME}.py
 ```
 
 ## Task 2.1: Guess the sum
@@ -15,7 +15,7 @@ Then uncomment the print statement, and check if you were right :)
 
 **Expected output:**
 ```
-$ python3 ./guess_sum.py
+$ python3 guess_sum.py
 
 {mysterious number}
 ```
@@ -30,7 +30,7 @@ Hint: Do you remember what data type we use for decimals?
 
 **Expected output:**
 ```
-$ python3 ./cone_volume.py
+$ python3 cone_volume.py
 
 Radius of the cone = 3
 Height of the cone = 6
@@ -45,7 +45,7 @@ Write a program that determines how many bowls of ramen a restaurant can make fr
 
 Your output can look like this:
 ```
-$ python3 ./ramen_yum.py
+$ python3 ramen_yum.py
 
 How many sheets of seaweed: 7
 The number of ramen: 2
